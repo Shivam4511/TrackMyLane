@@ -36,3 +36,5 @@ SpeechRecognition    -    Recognize voice commands
 Pyttsx3 -    Text-to-speech output
 
 Threading -  Background voice processing
+
+The demo videos are attached in the repository look for better understanding.
